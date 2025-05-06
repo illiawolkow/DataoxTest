@@ -23,7 +23,7 @@ A FastAPI application for scraping and accessing used car listings from AutoRia.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/autoria-scraper.git
+git clone https://github.com/illiawolkow/DataoxTest
 cd autoria-scraper
 ```
 
